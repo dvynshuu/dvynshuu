@@ -1,19 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0b,50:1a1a2e,100:2e5bff&height=220&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0b,50:1a1a2e,100:2e5bff&height=300&section=header&text=DVYNSHUU&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Builder%20%E2%80%A2%20Product%20Thinker%20%E2%80%A2%20Systems%20Architect&descSize=18&descColor=8b949e&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <br>
 
-```
- ██████╗ ██╗   ██╗██╗   ██╗███╗   ██╗███████╗██╗  ██╗██╗   ██╗██╗   ██╗
- ██╔══██╗██║   ██║╚██╗ ██╔╝████╗  ██║██╔════╝██║  ██║██║   ██║██║   ██║
- ██║  ██║██║   ██║ ╚████╔╝ ██╔██╗ ██║███████╗███████║██║   ██║██║   ██║
- ██║  ██║╚██╗ ██╔╝  ╚██╔╝  ██║╚██╗██║╚════██║██╔══██║██║   ██║██║   ██║
- ██████╔╝ ╚████╔╝    ██║   ██║ ╚████║███████║██║  ██║╚██████╔╝╚██████╔╝
- ╚═════╝   ╚═══╝     ╚═╝   ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝
-```
-
-### I build systems that reshape how humans think, work, and grow.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2E5BFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=35&lines=I+build+systems+that+reshape+how+humans+think%2C+work%2C+and+grow." alt="Typing SVG" />
 
 <br>
 
