@@ -17,9 +17,13 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/dvynshuu-0a0a0b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dvynshuu)
+[![Portfolio](https://img.shields.io/badge/portfolio-2e5bff?style=for-the-badge&logo=netlify&logoColor=white)](https://dvynshu.netlify.app)
 &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/maniacc.vercel.app-2e5bff?style=for-the-badge&logo=vercel&logoColor=white)](https://maniacc.vercel.app)
+[![GitHub](https://img.shields.io/badge/github-0a0a0b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dvynshuu)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin-0a0a0b?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-singh-82847a309/)
+&nbsp;&nbsp;
+[![X](https://img.shields.io/badge/𝕏-0a0a0b?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dvynshuu)
 
 </div>
 
@@ -71,6 +75,25 @@ The brain doesn't think in rows and columns — it thinks in webs. Maniac is a l
 </td>
 <td width="50%" valign="top">
 
+### 📄 [ConverCell](https://convercell.netlify.app)
+**AI-Powered Document Intelligence**
+
+PDF data shouldn't be trapped behind pixels. ConverCell is a full-suite document processing platform with OCR-driven table extraction, turning unstructured documents into actionable, analysis-ready spreadsheets.
+
+`React` `Python` `FastAPI` `OCR` `TailwindCSS`
+
+▸ AI-powered PDF → Excel table extraction  
+▸ Compress, merge, edit & generate PDFs  
+▸ Privacy-first — files auto-deleted after processing  
+▸ Workspace dashboard for conversion history  
+
+[**→ Live**](https://convercell.netlify.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🌐 [Chronex](https://github.com/dvynshuu/chronex)
 **Time Intelligence for Global Teams**
 
@@ -86,8 +109,6 @@ Distributed teams don't fail because of talent gaps — they fail because of tim
 [**→ Source**](https://github.com/dvynshuu/chronex)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🌌 [Ouroboros](https://github.com/dvynshuu/Ouroboros)
@@ -105,6 +126,8 @@ A next-generation God Mode interface for visualizing complex systems as living, 
 [**→ Source**](https://github.com/dvynshuu/Ouroboros)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 💎 [Elite Dock](https://github.com/dvynshuu/elite-dock)
@@ -120,6 +143,23 @@ Traditional bookmarking is broken — it's a graveyard of forgotten links. Elite
 ▸ Google OAuth + Magic Link auth  
 
 [**→ Source**](https://github.com/dvynshuu/elite-dock)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 [Portfolio](https://dvynshu.netlify.app)
+**Personal Brand & Product Showcase**
+
+A premium, dark-themed developer portfolio with custom typography, fluid animations, and structured data for SEO — engineered to feel more like a product launch site than a resume.
+
+`React` `Vite` `Montserrat` `Font Awesome` `Netlify`
+
+▸ SEO-optimized with JSON-LD structured data  
+▸ Google-indexed with Search Console integration  
+▸ Dynamic project showcases with deep links  
+▸ Dark mode with custom theme color system  
+
+[**→ Live**](https://dvynshu.netlify.app)
 
 </td>
 </tr>
@@ -169,16 +209,14 @@ Fitness isn't about motivation — it's about feedback loops. FitSync creates th
 
 <div align="center">
 
-<br>
-
-**Frontend** &nbsp;&nbsp;→&nbsp;&nbsp; React · Next.js · TypeScript · Vite · TailwindCSS · Three.js · WebGL  
-**Backend** &nbsp;&nbsp;&nbsp;→&nbsp;&nbsp; Node.js · Express · Socket.io · Prisma · REST APIs  
-**Data** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp; MongoDB · Redis · SQLite · IndexedDB · Dexie.js  
-**Auth** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp; NextAuth · JWT · OAuth 2.0 · Magic Links  
-**Infra** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp; Vercel · Docker · Bun · Git · CI/CD  
-**Design** &nbsp;&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp; Figma · Custom CSS Systems · Glassmorphism · WebGL Shaders  
-
-<br>
+| Layer | Technologies |
+|:---:|:---|
+| **Frontend** | React · Next.js · TypeScript · Vite · TailwindCSS · Three.js · WebGL |
+| **Backend** | Node.js · Express · Python · FastAPI · Socket.io · Prisma · REST APIs |
+| **Data** | MongoDB · Redis · SQLite · IndexedDB · Dexie.js |
+| **Auth** | NextAuth · JWT · OAuth 2.0 · Magic Links |
+| **Infra** | Vercel · Netlify · Docker · Bun · Git · CI/CD |
+| **Design** | Figma · Custom CSS Systems · Glassmorphism · WebGL Shaders |
 
 </div>
 
@@ -257,7 +295,7 @@ The next chapter is building systems that are **intelligent, invisible, and deep
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=dvynshuu&show_icons=true&hide_border=true&bg_color=0a0a0b&title_color=2e5bff&icon_color=2e5bff&text_color=c9d1d9&ring_color=2e5bff" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dvynshuu&hide_border=true&background=0a0a0b&ring=2e5bff&fire=2e5bff&currStreakLabel=2e5bff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=666666" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=dvynshuu&hide_border=true&background=0a0a0b&ring=2e5bff&fire=2e5bff&currStreakLabel=2e5bff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=666666" width="49%" />
 
 </div>
 
@@ -292,7 +330,9 @@ The next chapter is building systems that are **intelligent, invisible, and deep
 
 [![Email](https://img.shields.io/badge/reach_out-0a0a0b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dvynshuu@gmail.com)
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/follow-2e5bff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dvynshuu)
+[![LinkedIn](https://img.shields.io/badge/connect-2e5bff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-singh-82847a309/)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/follow-0a0a0b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dvynshuu)
 
 </div>
 
